@@ -11,6 +11,6 @@ for /F "delims=" %%a in (temp.txt) do (
 echo %list%
 echo ----- 
 mkdir Dynamic
-cd Dymanic
+cd Dynamic
 "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe" %list% /logger:trx
 echo -----
