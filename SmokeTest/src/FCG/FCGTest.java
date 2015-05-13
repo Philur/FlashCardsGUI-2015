@@ -4,7 +4,7 @@
  Author      : Erik Nilsson
  Version     : 1.0
  Copyright   : (C) Combitech AB
- Description : Tests to run on card used for FCG
+ Description : Tests to run on FCG installation
  ============================================================================
  */
 package FCG;
